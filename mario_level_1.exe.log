@@ -1,0 +1,90 @@
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
+Traceback (most recent call last):
+  File "mario_level_1.py", line 11, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\main.pyc", line 3, in <module>
+  File "zipextimporter.pyc", line 82, in load_module
+  File "data\setup.pyc", line 23, in <module>
+  File "data\tools.pyc", line 135, in load_all_fonts
+  File "data\tools.pyc", line 127, in load_all_music
+WindowsError: [Error 3] The system cannot find the path specified: 'resources\\fonts/*.*'
